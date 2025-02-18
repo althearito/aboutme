@@ -1,6 +1,6 @@
-#NAME
+# NAME
 Althea Rito
 
-##ABOUT ME
+## ABOUT ME
 
 - Lorem ipsum dolor sit amet.
